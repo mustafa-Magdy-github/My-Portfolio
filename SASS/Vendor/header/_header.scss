@@ -1,0 +1,59 @@
+.Section-Header
+{
+    background: linear-gradient(45deg, #9dc5cc, #77cc6d);
+    align-items: baseline;
+    padding: 0.5em 0em;
+    border-radius: 3px;
+    box-shadow: 0px 3px 5px 1px #8ac99c;
+    margin: 2em auto 0em;
+
+.row
+{
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+
+
+.card-img
+{
+    div
+    {
+        img
+        {
+            width: 25%;
+            transform: rotate3d(0, 1, 1, -14deg);
+        }
+    }
+}
+
+
+
+.card-icon
+{
+    div
+    {
+            a
+            {
+                color: whitesmoke;
+                font-size: 22px;
+                margin: 0px 5px;
+            }
+            a:hover
+            {
+                color: #e0ffe1;
+                text-decoration: none;
+            }
+    }
+}
+
+
+
+}
+
+
+
+
+
+

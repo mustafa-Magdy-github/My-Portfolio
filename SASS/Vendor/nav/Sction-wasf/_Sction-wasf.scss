@@ -1,0 +1,31 @@
+.Sction-wasf
+{
+
+    padding: 4em 0em;
+    overflow: hidden;
+
+    .row
+    {
+        background-color: #f7f7f7;
+        border: 0;
+        border-top: 1px solid #eee;
+        border-bottom: 1px solid #eee;
+        padding: 2em 1em;
+        align-items: baseline;
+        border-radius: 4px;
+    }
+
+
+
+    .card-wsf
+    {
+        div
+        {
+            h1
+            {
+                font: 13px monospace;
+                color: #637686;
+            }
+        }
+    }
+}

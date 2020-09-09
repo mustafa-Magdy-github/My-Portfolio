@@ -1,0 +1,30 @@
+.Section-footer
+{
+    text-align: center;
+    overflow: hidden;
+    align-items: baseline;
+    padding: 0.5em 0em;
+    border-radius: 3px;
+    box-shadow: 0px 3px 5px 1px #8ac99c;
+    margin: 2em auto 0em;
+    background: #262626;
+    color: #8c8989;
+
+    .Card-text
+    {
+        div
+        {
+            h1
+            {
+                font-size: 30px;
+                font-family: fantasy;
+            }
+
+            h2
+            {    
+                font-size: 25px;
+                font-style: italic;
+            }
+        }
+    }
+}
